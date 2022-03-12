@@ -2,19 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://initconf.org/2019/jobs/</loc>
+    <loc>https://2019.initconf.org/jobs/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>https://initconf.org/2019/team/</loc>
+    <loc>https://2019.initconf.org/team/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>https://initconf.org/2019/tickets/</loc>
+    <loc>https://2019.initconf.org/tickets/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>https://initconf.org/2019/categories/</loc>
+    <loc>https://2019.initconf.org/categories/</loc>
   </url><url>
-    <loc>https://initconf.org/2019/</loc>
+    <loc>https://2019.initconf.org/</loc>
   </url><url>
-    <loc>https://initconf.org/2019/tags/</loc>
+    <loc>https://2019.initconf.org/tags/</loc>
   </url>
 </urlset>
