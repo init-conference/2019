@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "style.css",
-	"sourceRoot": "C:/Users/miros/source/hugo/init-conference/website-2019",
+	"sourceRoot": "C:/Users/miros/source/hugo/init-conference/source-2019",
 	"sources": [
 		"themes/init/assets/sass/main.scss",
 		"themes/init/assets/sass/general/_variables.scss",
